@@ -2,7 +2,7 @@
 
 In contrast to a GUI, or graphical user interface, the command line lets us tell our computer exactly what we want it to do using successive lines of text. 
 
-The commmand line is one of the primary ways of using Git on your computer. We're going to learn this method first so we can really grasp the concepts of Git (and feel like we have computational superpowers, making files appear out of thin air). 
+The command line is one of the primary ways of using Git on your computer. We're going to learn this method first so we can really grasp the concepts of Git (and feel like we have computational superpowers, making files appear out of thin air). 
 
 ### Open your Terminal. 
 
